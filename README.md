@@ -5,7 +5,7 @@ A basic **checklist** for a laboratory **supercritical CO2 extraction** system.
 For manual control of the necessary steps without a high degree of automation.
 Perhaps the high-pressure valves are not (yet) available or the process sequence has not yet been fully researched.
 
-This representation makes it easy to run through the processes and can be fully automated later.
+This **checklist** makes it easy to run through the process. The sequence can be fully automated later.
 
 Installation
 ------------
@@ -13,14 +13,16 @@ Installation
 Simply open with a **web browser** and the file can be edited with a **text editor**.
 A single HTML file contains the CSS style and a JavaScript for dynamic processing.
 
+Tested with Edge and Firefox on Windows and with Chrome on Android.
+
 Usage
 -----
 
 1. Copy the single file to a working directory
 2. Open the file with a web browser
 3. The complete checklist is displayed
-4. With a mouse click on a single element, the point is checked
-5. If you only want to see one list item at a time, first select [Individual]
+4. Click or touch on a single element to selected/unselected item
+5. First select [Individual] for only one list item at a time
 6. [Clear all] deletes all already marked points (after confirmation)
 
 Demo
@@ -35,7 +37,7 @@ https://github.com/JEGGEgit/Checklist/blob/main/demo/checkco2demo640x360.gif
 Notes
 -----
 
-This **Checklist** can be easily adapted and can also be printed if necessary.
+This **Checklist** can be easily adapted and also be printed if necessary.
 The idea is to quickly create a sequence for playing through individual steps.
 
 I created the whole thing based on checklists for airplanes.
